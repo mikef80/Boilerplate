@@ -1,4 +1,5 @@
-@import url("/fonts.css");
+@import url('fonts.css');
+@import url('colors.css');
 
 body {
     font-family: Roboto, sans-serif;
@@ -8,6 +9,8 @@ body {
 h1 {
     font-size: 20px;
     text-align: center;
+    font-weight: 700;
+    font-family: Roboto, sans-serif;
     font-weight: 700;
 }
 
@@ -24,4 +27,48 @@ div h2 {
 
 code {
     font-family: 'Space Mono', sans-serif;
+    font-weight: 400;
+}
+
+.swatch {
+    width: 200px;
+    height: 100px;
+    display: inline-block;
+}
+
+.fonts {
+    text-align: justify;
+}
+
+#font_1, #font_2, #font_3 {
+    display: inline-block;
+    padding-right: 3%;
+    width: 30%;
+}
+
+#font_1 {
+    font-family: Roboto;
+    font-size: 17px;
+}
+
+#font_2 {
+    font-family: 'Space Mono';
+    font-size: 17px;
+}
+
+#font_3 {
+    font-family: Qahiri;
+    font-size: 17px;
+}
+
+.normal {
+    font-weight: normal;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.italic {
+    font-style: italic;
 }
