@@ -4,6 +4,6 @@ This is intended as a demonstration style guide for my website.  It will be used
 
 Links to resources I have used:
 
-https://coolors.co/b07baf-c4925c-f2f2f2-ab9aab-4ec24f  
-http://fonts.google.com
+[Coolors.co] (https://coolors.co/b07baf-c4925c-f2f2f2-ab9aab-4ec24f)
+[Google Fonts] (http://fonts.google.com)
 
